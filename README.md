@@ -1,4 +1,4 @@
 # EasyArch
 
- curl -L bit.ly/easyarch > easyarch
- sh easyarch
+ ``curl -L bit.ly/easyarch > easyarch``
+ ``sh easyarch``
