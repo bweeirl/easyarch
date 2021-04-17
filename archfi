@@ -12,7 +12,7 @@
 
 
 apptitle="EasyArch"
-baseurl=https://raw.githubusercontent.com/MatMoul/archfi/master
+baseurl=https://raw.githubusercontent.com/bweeirl/easyarch/master
 cpl=0
 skipfont="0"
 fspkgs=""
